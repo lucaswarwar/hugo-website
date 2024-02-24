@@ -34,6 +34,7 @@ cover:
 ##### Abstract
 
 We provide the ﬁrst estimates of intergenerational income mobility using population-wide tax data for a large developing country, namely Brazil. We measure formal income from tax and payroll data, and we train machine learning models on census and survey data to predict informal income. We develop methods to quantify and characterize the estimation bias resulting from income imputation and other sources of measurement error, and show that such bias remains negligible in our context. A 10 percentile increase in parental income rank is associated on average with a 5.5 percentile increase in child income rank, and only 2.5% of children born to parents in the bottom quintile reach the top quintile. Mobility varies widely by gender, race, and geographical areas, and causal place eﬀects explain 57% of variation in mobility across regions.
+
 ---
 
 ##### Figure: Average adult income rank of children born in the 25th percentile of the parental income distribution
