@@ -20,8 +20,8 @@ menu:
         - name: Data
           url: data/
           weight: 3 
-        - name: Blog
-           url: blog/
+        #- name: Blog
+          # url: blog/
           weight: 4
 
 params:
@@ -62,8 +62,8 @@ params:
               url: teaching/
             - name: Data
               url: data/
-            - name: Blog
-              url: blog/
+            #- name: Blog
+            #  url: blog/
             # - name: Tags
               # url: tags/
             # - name: Archive
