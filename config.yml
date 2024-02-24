@@ -1,4 +1,4 @@
-baseURL: "https://lucaswarwar.github.io/" 
+baseURL: "https://lucaswarwar.github.io" 
 title: Lucas Warwar
 paginate: 20
 theme: PaperMod
