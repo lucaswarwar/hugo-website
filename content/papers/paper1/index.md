@@ -1,17 +1,17 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+title: "Intergenerational Mobility in the Land of Inequality" 
+date: 2022-09-01
+tags: ["Income Mobility","Inequality","Brazil"]
+author: "Britto, D., Fonseca, A., Pinotti, P., Sampaio, B., Warwar, L."
+description: "This paper describes intergenerational mobility of income in Brazil. Submitted." 
+summary: "This paper combines several Brazilian administrative datasets to measure individual level intergenerational income mobility." 
 cover:
-    image: "paper1.png"
-    alt: "Image caption"
+    image: "figure.png"
+    alt: "Income Mobility in Brazil"
     relative: false
-editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Journal Name"
+# editPost:
+    # URL: "https://doi.org/10.1257/aer.102.4.1721"
+    # Text: "Journal Name"
 
 ---
 
@@ -19,45 +19,34 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
++ [Paper](IGM_BFPSW.pdf)
+
+---
+
+##### In the Media
+
++ [VoxEU](https://cepr.org/voxeu/columns/intergenerational-mobility-land-inequality-case-brazil)
++ [Folha de São Paulo](https://www1.folha.uol.com.br/mercado/2022/10/filhos-de-familias-pobres-tem-so-25-de-chance-de-chegar-ao-topo-no-brasil.shtml)
++ [Valor Econômico](https://valor.globo.com/brasil/noticia/2022/10/16/no-brasil-local-de-nascimento-afeta-chance-de-subir-na-vida.ghtml)
 
 ---
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+We provide the ﬁrst estimates of intergenerational income mobility using population-wide tax data for a large developing country, namely Brazil. We measure formal income from tax and payroll data, and we train machine learning models on census and survey data to predict informal income. We develop methods to quantify and characterize the estimation bias resulting from income imputation and other sources of measurement error, and show that such bias remains negligible in our context. A 10 percentile increase in parental income rank is associated on average with a 5.5 percentile increase in child income rank, and only 2.5% of children born to parents in the bottom quintile reach the top quintile. Mobility varies widely by gender, race, and geographical areas, and causal place eﬀects explain 57% of variation in mobility across regions.
 ---
 
-##### Figure X: Figure caption
+##### Figure: Average adult income rank of children born in the 25th percentile of the parental income distribution
 
-![](paper1.png)
+![](figure.png)
 
 ---
 
 ##### Citation
 
-Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
-
-```BibTeX
-@article{AAYY,
-author = {Author},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
-```
+Britto et al. 2022. "Intergenerational Mobility in the Land of Inequality." *Working Paper* 
 
 ---
 
-##### Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Dissertation title](https://escholarship.org/uc/item/7jr3m96r) – PhD dissertation on which this paper is based.
-+ [Column title](https://cep.lse.ac.uk/pubs/download/cp365.pdf) – Nontechnical column describing the paper.
 
