@@ -14,14 +14,14 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Teaching
-          url: teaching/
+        - name: Work in Progress
+          url: wp/
           weight: 2
         - name: Data
           url: data/
           weight: 3 
-        #- name: Blog
-          # url: blog/
+        - name: Readings
+           url: readings/
           weight: 4
 
 params:
@@ -58,16 +58,16 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            - name: Teaching
-              url: teaching/
+            - name: Work in Progress
+              url: wp/
             - name: Data
               url: data/
-            #- name: Blog
-            #  url: blog/
-            # - name: Tags
-              # url: tags/
-            # - name: Archive
-              # url: archive/
+            - name: Readings
+              url: readings/
+             - name: Tags
+               url: tags/
+             - name: Archive
+               url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
