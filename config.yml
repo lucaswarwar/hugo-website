@@ -21,7 +21,7 @@ menu:
           url: data/
           weight: 3 
         - name: Readings
-           url: readings/
+          url: readings/
           weight: 4
 
 params:
@@ -64,10 +64,10 @@ params:
               url: data/
             - name: Readings
               url: readings/
-             - name: Tags
-               url: tags/
-             - name: Archive
-               url: archive/
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
