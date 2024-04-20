@@ -56,18 +56,18 @@ params:
           imageHeight: 160
           imageTitle: Lucas
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
-            - name: Work in Progress
-              url: wp/
-            - name: Data
-              url: data/
+            #- name: Work in Progress
+             # url: wp/
+            #- name: Data
+             # url: data/
             - name: Readings
               url: readings/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            #- name: Tags
+             # url: tags/
+            #- name: Archive
+             # url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
