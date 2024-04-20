@@ -19,7 +19,7 @@ cover:
 
 ##### Download
 
-+ [Paper](IGM_BFPSW.pdf)
++ [Paper](IGM_BFPSW.pdf) *Submitted*
 
 ---
 
