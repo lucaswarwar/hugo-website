@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Lucas Warwar
-          subtitle: "I am a PhD student in Economics at Stanford University. My research covers topics in public and labor economics, and I am also interested in Machine Learning and the intersection of Economic Theory and Artificial Intelligence. In my free time, I swim, bike, and run. From Brazil.\n\nYou can find my CV [here](cv.pdf). Feel free to reach out to me at warwar [at] stanford [dot] edu."
+          subtitle: "I am a PhD student in Economics at Stanford University. My research covers topics in public and labor economics, and I am also interested in Machine Learning and the intersection of Economic Theory and Artificial Intelligence. In my free time, I swim, bike, and run. From Brazil.\n\nYou can find my CV [**here**](cv.pdf). Feel free to reach out to me at warwar [at] stanford [dot] edu."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
