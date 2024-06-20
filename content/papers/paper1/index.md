@@ -1,10 +1,10 @@
 ---
-title: "Intergenerational Mobility in the Land of Inequality *R&R, REStat*"
+title: "Intergenerational Mobility in the Land of Inequality"
 date: 2022-09-01
 tags: ["Income Mobility","Inequality","Brazil"]
 author: "Britto, D., Fonseca, A., Pinotti, P., Sampaio, B., Warwar, L."
 description: "This paper describes intergenerational mobility of income in Brazil." 
-summary: "This paper combines several Brazilian administrative datasets to measure individual level intergenerational income mobility." 
+summary: "This paper combines several Brazilian administrative datasets to measure individual level intergenerational income mobility.\n*R&R, REStat*" 
 cover:
     image: "figure.png"
     alt: "Income Mobility in Brazil"
@@ -19,7 +19,7 @@ cover:
 
 ##### Download
 
-+ [Paper](IGM_BFPSW.pdf) *R&R, REStat*
++ [PDF](IGM_BFPSW.pdf)
 
 ---
 
