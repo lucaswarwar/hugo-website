@@ -1,5 +1,5 @@
 ---
-title: "Intergenerational Mobility in the Land of Inequality" *R&R, REStat*
+title: "Intergenerational Mobility in the Land of Inequality *R&R, REStat*"
 date: 2022-09-01
 tags: ["Income Mobility","Inequality","Brazil"]
 author: "Britto, D., Fonseca, A., Pinotti, P., Sampaio, B., Warwar, L."
