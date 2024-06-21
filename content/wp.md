@@ -12,3 +12,4 @@ description: "My current reading list."
 ### Policy and other projects
 
 - [Partnership with IMDS](https://imdsbrasil.org/projeto/atlas-da-mobilidade-e-policy-papers-com-registros-administrativos-2/) to create the "Brazilian Income Mobility Database", aka Brazilian "Opportunity Atlas" -- *Ongoing*
+- Partnership with the Brazilian Tax Authority (RFB) to estimate income tax evasion using Machine Learning -- *Ongoing*
